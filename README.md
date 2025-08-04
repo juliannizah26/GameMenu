@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Portable-brightgreen)
-![Version](https://img.shields.io/badge/Version-v1.1.2-brightgreen)
+![Version](https://img.shields.io/badge/Version-v1.1.3-brightgreen)
 
 **Aplikasi Game Menu Launcher untuk Warnet** - Kelola dan jalankan game dengan mudah, tampilan modern, dan sistem yang stabil.
 
@@ -30,8 +30,9 @@
    - VIP, Regular, Server, dll
 5. **Tab "PCs"** - Daftarkan semua PC warnet:
    - Nama PC (Server, PC-01, PC-02, dll)
-   - IP Address
+   - IP Address (ketik 192168100 auto jadi 192.168.1.100)
    - Pilih PC Group
+   - **"Add Multiple PCs"** untuk tambah banyak PC sekaligus
 
 ### Langkah 2: Tambah Game
 1. **Tab "Games"** → klik **"Add Game"**
@@ -49,11 +50,12 @@
 2. **Jalankan Game Menu.exe** - User bisa memilih dan main game
 3. **User tinggal double-click game** untuk main
 
+
 ## ✨ Fitur Unggulan
 
 ### 🎮 Untuk User/Customer
 - **Tampilan Game Grid** - Lihat semua game dengan gambar menarik
-- **Kategori Game** - Cari game berdasarkan jenis (Action, RPG, dll)
+- **Kategori Game** - Cari game berdasarkan jenis (ONLINE, OFFLINE, dll)
 - **One-Click Play** - Double-click langsung main game
 - **Run as Admin** - Right-click jika game butuh administrator
 - **Pencarian Cepat** - Ketik nama game untuk cari cepat
@@ -61,8 +63,8 @@
 ### 🛠️ Untuk Operator Warnet
 - **Manajemen Game Mudah** - Tambah, edit, hapus game dengan mudah
 - **Kelola PC & IP** - Daftar semua PC dengan IP address
+- **Add Multiple PCs** - Tambah banyak PC sekaligus dengan nomor berurutan
 - **Grup PC** - Tentukan PC mana yang bisa main game tertentu
-- **Context Menu** - Right-click untuk edit/hapus cepat
 - **Sorting Table** - Klik header kolom untuk urutkan data
 - **Multi-Monitor** - Window bisa maximize/minimize sesuai kebutuhan
 
@@ -79,16 +81,20 @@
 - **RAM:** 512MB
 - **Storage:** 100MB ruang kosong
 
-## ⚡ Yang Baru di v1.1.2
+## ⚡ Yang Baru di v1.1.3
 
-- ✅ **Game Jalan Lebih Stabil** - Fix bug game tidak bisa jalan
-- ✅ **Sorting Table** - Klik header tabel untuk urutkan data
-- ✅ **Right-Click Menu** - Menu cepat edit/hapus dengan klik kanan
-- ✅ **Window Fleksibel** - Bisa maximize/minimize untuk layar besar
-- ✅ **Popup Modern** - Pesan error/sukses dengan tampilan modern
-- ✅ **SteamGridDB** - Ambil gambar game berkualitas tinggi
-- ✅ **Process Management** - Cegah multiple instance yang bikin error
-- ✅ **Performance Boost** - Game launch 95% lebih cepat
+- ✅ **Context Menu Fixes** - Right-click menu bekerja sempurna meski tabel disort/difilter
+- ✅ **Robust Table Operations** - Edit/Delete/Launch berdasarkan nama unik, tidak posisi baris
+- ✅ **Smart IP Address Input** - Ketik IP otomatis format (192168100 → 192.168.1.100)
+- ✅ **Natural IP Typing** - Hapus titik dengan backspace, validasi otomatis ≤ 255
+- ✅ **Add Multiple PCs** - Tambah 10, 20, 50 PC sekaligus dengan nomor berurutan
+- ✅ **Exact Count Creation** - Request 10 PC = dapat tepat 10 PC baru
+- ✅ **Smart Name/IP Assignment** - Skip yang sudah ada, lanjut nomor berikutnya
+- ✅ **User-Friendly Placeholders** - Contoh input yang jelas di setiap dialog
+- ✅ **Simplified Category IDs** - ID kategori ringkas (1, 2, 3 vs UUID panjang)
+- ✅ **Enhanced Table Refresh** - Data tabel terupdate reliable setelah edit/delete
+- ✅ **Improved UX** - Workflow PC creation yang lebih predictable
+- ✅ **Better Validation** - Input validation yang lebih pintar dan toleran
 
 ## 📞 Support & Contact
 
