@@ -12,7 +12,7 @@
 
 ## 📥 Download & Install
 
-1. **Download file GameMenu** dari bagian [Releases](https://github.com/juliannizah26/GameMenu/releases)
+1. **Download file Game Menu** dari bagian [Releases](https://github.com/juliannizah26/GameMenu/releases)
 2. **Jalankan file .exe** - Tidak perlu install, langsung jalan
 3. **Setup otomatis** - Database dan folder akan dibuat sendiri
 
@@ -25,9 +25,9 @@
    - Upload logo warnet (opsional)
    - Upload background custom (opsional)
 3. **Tab "Categories"** - Buat kategori game:
-   - Action, RPG, Strategy, Sports, dll
+   - OFFLINE, ONLINE, APPS dll
 4. **Tab "PC Groups"** - Buat grup PC:
-   - VIP, Regular, Gaming Zone, dll
+   - VIP, Regular, Server, dll
 5. **Tab "PCs"** - Daftarkan semua PC warnet:
    - Nama PC (Server, PC-01, PC-02, dll)
    - IP Address
