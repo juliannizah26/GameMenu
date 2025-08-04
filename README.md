@@ -1,7 +1,5 @@
 # GameMenu 🎮
 
-<img width="1024" height="350" alt="GAME-MENU-8-4-2025" src="https://github.com/user-attachments/assets/8d99bb05-4c46-4f0d-8718-070ae14e317d" />
-
 ![2025-08-04 15-05-19](https://github.com/user-attachments/assets/217aabff-7bad-4560-8bb4-3a75976548a5)
 
 
