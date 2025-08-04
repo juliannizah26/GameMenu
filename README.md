@@ -12,7 +12,7 @@
 
 ## 📥 Download & Install
 
-1. **Download file GameMenu** dari bagian [Releases](https://github.com/juliannizah26/GameMenu-Core/releases)
+1. **Download file GameMenu** dari bagian [Releases](https://github.com/juliannizah26/GameMenu/releases)
 2. **Jalankan file .exe** - Tidak perlu install, langsung jalan
 3. **Setup otomatis** - Database dan folder akan dibuat sendiri
 
