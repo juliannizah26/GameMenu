@@ -29,7 +29,7 @@
 4. **Tab "PC Groups"** - Buat grup PC:
    - VIP, Regular, Gaming Zone, dll
 5. **Tab "PCs"** - Daftarkan semua PC warnet:
-   - Nama PC (PC-01, PC-02, dll)
+   - Nama PC (Server, PC-01, PC-02, dll)
    - IP Address
    - Pilih PC Group
 
