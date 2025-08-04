@@ -49,33 +49,6 @@
 2. **Run Game Menu.exe** - Users can select and play games
 3. **Users just double-click game** to play
 
-## 🚀 "Add Multiple PCs" Feature (NEW!)
-
-Now operators can add many PCs at once easily:
-
-### How to Use:
-1. **Click "Add Multiple PCs"** in PCs tab
-2. **Fill form**:
-   - **Count**: How many PCs to add (example: 10)
-   - **Starting IP**: IP to start from (example: 192.168.1.100)
-   - **Starting Name**: PC name to start from (example: PC-)
-   - **PC Group**: Select group for all these PCs
-3. **Click OK** - System automatically creates:
-   - PC-01, PC-02, PC-03... up to PC-10
-   - IP 192.168.1.100, 192.168.1.101, 192.168.1.102... etc.
-   - Skip numbers/IPs that already exist
-   - Create exactly as many as requested
-
-### Example Result:
-- **Request 5 new PCs**, name starts "PC-", IP starts "192.168.1.10"
-- **If PC-01 to PC-03 already exist**, system creates:
-  - PC-04 → 192.168.1.13
-  - PC-05 → 192.168.1.14  
-  - PC-06 → 192.168.1.15
-  - PC-07 → 192.168.1.16
-  - PC-08 → 192.168.1.17
-- **Result: Exactly 5 new PCs** as requested!
-
 ## ✨ Key Features
 
 ### 🎮 For Users/Customers
