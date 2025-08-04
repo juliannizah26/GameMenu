@@ -77,7 +77,7 @@
 
 - **Windows 7/8/10/11** (32-bit atau 64-bit)
 - **RAM:** 2GB
-- **Storage:** 50MB ruang kosong
+- **Storage:** 100MB ruang kosong
 
 ## ⚡ Yang Baru di v1.1.2
 
