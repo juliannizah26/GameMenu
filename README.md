@@ -94,7 +94,7 @@
 
 **Julian Nizah** - Developer
 - 🌐 GitHub: [@juliannizah26](https://github.com/juliannizah26)
-- 📧 Email: juliannizah26@gmail.com
+- 📧 Email: juliannizah.26@gmail.com
 - � Facebook: [Julian Nizah](https://facebook.com/juliannizahyt)
 
 ## ☕ Dukung Developer
