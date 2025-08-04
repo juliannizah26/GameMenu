@@ -19,7 +19,7 @@
 ## 🎯 Cara Penggunaan untuk Operator Warnet
 
 ### Langkah 1: Setup Awal
-1. **Buka GameManagement.exe** (untuk admin/operator)
+1. **Buka Game Management.exe** (untuk admin/operator)
 2. **Masuk ke tab "Settings"**:
    - Isi nama warnet Anda
    - Upload logo warnet (opsional)
@@ -45,8 +45,8 @@
 4. **Klik OK** - Game siap digunakan
 
 ### Langkah 3: Jalankan di PC Client
-1. **Copy GameMenu.exe ke setiap PC**
-2. **Jalankan GameMenu.exe** - User bisa memilih dan main game
+1. **Copy Game Menu ke setiap PC** kasih shortcut ke desktop, untuk diskless tingall kasih shortcut ke desktop saja.
+2. **Jalankan Game Menu.exe** - User bisa memilih dan main game
 3. **User tinggal double-click game** untuk main
 
 ## ✨ Fitur Unggulan
