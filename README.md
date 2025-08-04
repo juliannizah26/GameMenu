@@ -76,7 +76,7 @@
 ## 🔧 Spesifikasi Minimum
 
 - **Windows 7/8/10/11** (32-bit atau 64-bit)
-- **RAM:** 2GB
+- **RAM:** 512MB
 - **Storage:** 100MB ruang kosong
 
 ## ⚡ Yang Baru di v1.1.2
