@@ -40,7 +40,7 @@
    - Parameter (kosongkan jika tidak tahu)
    - Pilih kategori
    - Pilih PC grup mana yang bisa main
-3. **Upload gambar game** - Klik "Browse Image" atau "SteamGridDB" untuk poster bagus
+3. **Upload gambar game** - Klik "Browse Image" ambil dari "SteamGridDB" untuk poster bagus
 4. **Klik OK** - Game siap digunakan
 
 ### Langkah 3: Jalankan di PC Client
