@@ -18,7 +18,7 @@
 
 ## 🎯 Cara Penggunaan untuk Operator Warnet
 
-### Langkah 1: Setup Awal (Hanya sekali)
+### Langkah 1: Setup Awal
 1. **Buka GameManagement.exe** (untuk admin/operator)
 2. **Masuk ke tab "Settings"**:
    - Isi nama warnet Anda
