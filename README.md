@@ -3,7 +3,6 @@
 <img width="1024" height="350" alt="GAME-MENU-8-4-2025" src="https://github.com/user-attachments/assets/8d99bb05-4c46-4f0d-8718-070ae14e317d" />
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![Python](https://img.shields.io/badge/Python-3.7+-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Portable-brightgreen)
 ![Version](https://img.shields.io/badge/Version-v1.1.2-brightgreen)
