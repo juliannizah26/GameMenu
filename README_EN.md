@@ -86,7 +86,6 @@
 
 - ✅ **Context Menu Fixes** - Right-click menu works perfectly even when table is sorted/filtered
 - ✅ **Robust Table Operations** - Edit/Delete/Launch based on unique names, not row position
-- ✅ **Smart IP Address Input** - Type IP auto-formats (192168100 → 192.168.1.100)
 - ✅ **Natural IP Typing** - Delete dots with backspace, auto-validation ≤ 255
 - ✅ **Add Multiple PCs** - Add 10, 20, 50 PCs at once with sequential numbering
 - ✅ **Exact Count Creation** - Request 10 PCs = get exactly 10 new PCs
