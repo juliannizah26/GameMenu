@@ -85,7 +85,6 @@
 
 - ✅ **Context Menu Fixes** - Right-click menu bekerja sempurna meski tabel disort/difilter
 - ✅ **Robust Table Operations** - Edit/Delete/Launch berdasarkan nama unik, tidak posisi baris
-- ✅ **Smart IP Address Input** - Ketik IP otomatis format (192168100 → 192.168.1.100)
 - ✅ **Natural IP Typing** - Hapus titik dengan backspace, validasi otomatis ≤ 255
 - ✅ **Add Multiple PCs** - Tambah 10, 20, 50 PC sekaligus dengan nomor berurutan
 - ✅ **Exact Count Creation** - Request 10 PC = dapat tepat 10 PC baru
