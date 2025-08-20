@@ -3,7 +3,7 @@
   <!-- Banner -->
   <img src="https://github.com/user-attachments/assets/50c272de-8296-413d-a02f-99457b6e5879" alt="GameMenu Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 
-  <h1>🎮 GameMenu</h1>
+  <h1>🎮 Game Menu 2025</h1>
   <p><b>Aplikasi Game Menu Launcher untuk Warnet</b><br>Kelola & jalankan game dengan mudah, tampilan modern, dan sistem stabil.</p>
 
   <!-- Badges -->
