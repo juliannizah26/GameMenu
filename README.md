@@ -1,113 +1,107 @@
-# GameMenu 🎮
-<img width="1024" height="324" alt="game-menu-8-16-2025" src="https://github.com/user-attachments/assets/50c272de-8296-413d-a02f-99457b6e5879" />
+<div align="center">
 
-![2025-08-04 15-05-19](https://github.com/user-attachments/assets/217aabff-7bad-4560-8bb4-3a75976548a5)
+  <!-- Banner -->
+  <img src="https://github.com/user-attachments/assets/50c272de-8296-413d-a02f-99457b6e5879" alt="GameMenu Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 
+  <h1>🎮 GameMenu</h1>
+  <p><b>Aplikasi Game Menu Launcher untuk Warnet</b><br>Kelola & jalankan game dengan mudah, tampilan modern, dan sistem stabil.</p>
 
-![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Portable-brightgreen)
-![Version](https://img.shields.io/badge/Version-v1.1.3-brightgreen)
+  <!-- Badges -->
+  <div>
+    <img src="https://img.shields.io/badge/Platform-Windows-blue" />
+    <img src="https://img.shields.io/badge/License-MIT-yellow" />
+    <img src="https://img.shields.io/badge/Status-Portable-brightgreen" />
+    <img src="https://img.shields.io/badge/Version-v1.1.3-brightgreen" />
+  </div>
 
-**Aplikasi Game Menu Launcher untuk Warnet** - Kelola dan jalankan game dengan mudah, tampilan modern, dan sistem yang stabil.
+  <br>
+
+  <!-- Screenshot -->
+  <img src="https://github.com/user-attachments/assets/217aabff-7bad-4560-8bb4-3a75976548a5" alt="GameMenu Screenshot" width="80%" style="border-radius: 10px; margin-top: 12px;" />
+
+</div>
+
+---
 
 ## 📥 Download & Install
+<div style="padding:10px; border-left:4px solid #4CAF50; background:#f6f8fa; border-radius:8px">
+1. <b>Download file Game Menu</b> dari bagian <a href="https://github.com/juliannizah26/GameMenu/releases">Releases</a><br>
+2. <b>Jalankan file .exe</b> → Tanpa install, langsung jalan<br>
+3. <b>Setup otomatis</b> → Database & folder dibuat otomatis
+</div>
 
-1. **Download file Game Menu** dari bagian [Releases](https://github.com/juliannizah26/GameMenu/releases)
-2. **Jalankan file .exe** - Tidak perlu install, langsung jalan
-3. **Setup otomatis** - Database dan folder akan dibuat sendiri
+---
 
 ## 🎯 Cara Penggunaan untuk Operator Warnet
 
-### Langkah 1: Setup Awal
-1. **Buka Game Management.exe** (untuk admin/operator)
-2. **Masuk ke tab "Settings"**:
-   - Isi nama warnet Anda
-   - Upload logo warnet (opsional)
-   - Upload background custom (opsional)
-3. **Tab "Categories"** - Buat kategori game:
-   - OFFLINE, ONLINE, APPS dll
-4. **Tab "PC Groups"** - Buat grup PC:
-   - VIP, Regular, Server, dll
-5. **Tab "PCs"** - Daftarkan semua PC warnet:
-   - Nama PC (Server, PC-01, PC-02, dll)
-   - IP Address (ketik 192168100 auto jadi 192.168.1.100)
-   - Pilih PC Group
-   - **"Add Multiple PCs"** untuk tambah banyak PC sekaligus
+<div style="display:grid; grid-template-columns: 1fr 1fr; gap:16px;">
 
-### Langkah 2: Tambah Game
-1. **Tab "Games"** → klik **"Add Game"**
-2. **Isi data game**:
-   - Nama game
-   - Path ke file .exe game
-   - Parameter (kosongkan jika tidak tahu)
-   - Pilih kategori
-   - Pilih PC grup mana yang bisa main
-3. **Upload gambar game** - Klik "Browse Image" ambil dari "SteamGridDB" untuk poster bagus
-4. **Klik OK** - Game siap digunakan
+<div style="padding:12px; border:1px solid #ddd; border-radius:10px;">
+<h3>⚙️ Setup Awal</h3>
+<ul>
+<li>Buka <b>Game Management.exe</b></li>
+<li>Masuk ke tab <b>Settings</b> → Isi nama warnet, upload logo & background</li>
+<li><b>Categories</b> → Buat kategori (ONLINE, OFFLINE, APPs)</li>
+<li><b>PC Groups</b> → VIP, Regular, Server, dll</li>
+<li><b>PCs</b> → Tambahkan semua PC + IP Address</li>
+</ul>
+</div>
 
-### Langkah 3: Jalankan di PC Client
-1. **Copy Game Menu ke setiap PC** kasih shortcut ke desktop, untuk diskless tingall kasih shortcut ke desktop saja.
-2. **Jalankan Game Menu.exe** - User bisa memilih dan main game
-3. **User tinggal double-click game** untuk main
+<div style="padding:12px; border:1px solid #ddd; border-radius:10px;">
+<h3>🕹️ Tambah Game</h3>
+<ul>
+<li>Tab <b>Games</b> → Add Game</li>
+<li>Isi nama, path, kategori, PC group</li>
+<li>Upload gambar dari <a href="https://www.steamgriddb.com/">SteamGridDB</a></li>
+<li>Klik OK → Game siap digunakan</li>
+</ul>
+</div>
 
+</div>
+
+---
 
 ## ✨ Fitur Unggulan
 
-### 🎮 Untuk User/Customer
-- **Tampilan Game Grid** - Lihat semua game dengan gambar menarik
-- **Kategori Game** - Cari game berdasarkan jenis (ONLINE, OFFLINE, dll)
-- **One-Click Play** - Double-click langsung main game
-- **Run as Admin** - Right-click jika game butuh administrator
-- **Pencarian Cepat** - Ketik nama game untuk cari cepat
+<div style="display:flex; gap:16px;">
 
-### 🛠️ Untuk Operator Warnet
-- **Manajemen Game Mudah** - Tambah, edit, hapus game dengan mudah
-- **Kelola PC & IP** - Daftar semua PC dengan IP address
-- **Add Multiple PCs** - Tambah banyak PC sekaligus dengan nomor berurutan
-- **Grup PC** - Tentukan PC mana yang bisa main game tertentu
-- **Sorting Table** - Klik header kolom untuk urutkan data
-- **Multi-Monitor** - Window bisa maximize/minimize sesuai kebutuhan
+<div style="flex:1; background:#1a1a1a; color:white; padding:16px; border-radius:12px;">
+<h3>👨‍💻 Untuk Operator</h3>
+<ul>
+<li>Manajemen game & PC mudah</li>
+<li>Tambah banyak PC sekaligus</li>
+<li>Sorting & Filtering tabel</li>
+<li>Grup PC custom</li>
+<li>Multi-monitor support</li>
+</ul>
+</div>
 
-### 🎨 Tampilan & UI
-- **Dark Theme** - Tampilan gelap yang nyaman untuk mata
-- **Logo Warnet** - Pasang logo warnet di header
-- **Background Custom** - Ganti background sesuai keinginan
-- **Running Text** - Teks berjalan di footer untuk info promo
-- **Responsive** - Menyesuaikan berbagai ukuran layar
+<div style="flex:1; background:#20232a; color:white; padding:16px; border-radius:12px;">
+<h3>🎮 Untuk User</h3>
+<ul>
+<li>Tampilan Game Grid dengan poster</li>
+<li>Kategori game lengkap</li>
+<li>One-click Play</li>
+<li>Pencarian cepat</li>
+<li>Run as Admin (right-click)</li>
+</ul>
+</div>
 
-## 🔧 Spesifikasi Minimum
-
-- **Windows 7/8/10/11** (32-bit atau 64-bit)
-- **RAM:** 512MB
-- **Storage:** 100MB ruang kosong
-
-## ⚡ Yang Baru di v1.1.3
-
-- ✅ **Context Menu Fixes** - Right-click menu bekerja sempurna meski tabel disort/difilter
-- ✅ **Robust Table Operations** - Edit/Delete/Launch berdasarkan nama unik, tidak posisi baris
-- ✅ **Natural IP Typing** - Hapus titik dengan backspace, validasi otomatis ≤ 255
-- ✅ **Add Multiple PCs** - Tambah 10, 20, 50 PC sekaligus dengan nomor berurutan
-- ✅ **Exact Count Creation** - Request 10 PC = dapat tepat 10 PC baru
-- ✅ **Smart Name/IP Assignment** - Skip yang sudah ada, lanjut nomor berikutnya
-- ✅ **User-Friendly Placeholders** - Contoh input yang jelas di setiap dialog
-- ✅ **Simplified Category IDs** - ID kategori ringkas (1, 2, 3 vs UUID panjang)
-- ✅ **Enhanced Table Refresh** - Data tabel terupdate reliable setelah edit/delete
-- ✅ **Improved UX** - Workflow PC creation yang lebih predictable
-- ✅ **Better Validation** - Input validation yang lebih pintar dan toleran
-
-## 📞 Support & Contact
-
-**Julian Nizah** - Developer
-- 🌐 GitHub: [@juliannizah26](https://github.com/juliannizah26)
-- 📧 Email: juliannizah.26@gmail.com
-- � Facebook: [Julian Nizah](https://facebook.com/juliannizahyt)
-
-## ☕ Dukung Developer
-
-Jika aplikasi ini membantu warnet Anda, dukung developer:
-- ⭐ **Star project ini di GitHub**
-- 💰 **Donasi via [Saweria](https://saweria.co/jndev26)**
-- 📢 **Share ke operator warnet lain**
+</div>
 
 ---
+
+## 📞 Kontak
+<div align="center">
+<b>👨‍💻 Developer: Julian Nizah</b><br>
+🌐 <a href="https://github.com/juliannizah26">GitHub</a> |
+📧 <a href="mailto:juliannizah.26@gmail.com">Email</a> |
+📘 <a href="https://facebook.com/juliannizahyt">Facebook</a>
+</div>
+
+---
+
+## ☕ Dukung Developer
+<div align="center">
+⭐ Star repo ini | 💰 <a href="https://saweria.co/jndev26">Donasi via Saweria</a> | 📢 Share ke operator warnet lain
+</div>
