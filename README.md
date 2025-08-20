@@ -109,6 +109,11 @@
 ---
 
 ## ☕ Dukung Developer
+
 <div align="center">
-⭐ Star repo ini | 💰 <a href="https://saweria.co/jndev26">Donasi via Saweria</a> | 📢 Share ke operator warnet lain
+
+⭐ Star repo ini di GitHub  
+💰 Donasi via [Saweria](https://saweria.co/jndev26)  
+📢 Bagikan project ini ke rekan operator warnet lain  
+
 </div>
