@@ -91,13 +91,20 @@
 
 ---
 
-## 📞 Kontak
+## 📞 Kontak & Sosial Media
+
 <div align="center">
-<b>👨‍💻 Developer: Julian Nizah</b><br>
-🌐 <a href="https://github.com/juliannizah26">GitHub</a> |
-📧 <a href="mailto:juliannizah.26@gmail.com">Email</a> |
-📘 <a href="https://facebook.com/juliannizahyt">Facebook</a>
+
+**👨‍💻 Developer: Julian Nizah**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/juliannizah26)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juliannizah.26@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/juliannizahyt)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@juliannizahyt)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@juliannizah26)
+
 </div>
+
 
 ---
 
